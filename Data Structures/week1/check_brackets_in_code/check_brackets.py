@@ -47,5 +47,5 @@ if __name__ == "__main__":
         assert(bracket_check('{[}') == 3)
         assert(bracket_check('foo(bar);') == 'Success')
         assert(bracket_check('foo(bar[i);') == 10)
-    test()
-    #print(bracket_check(sys.stdin.read()))
+    #test()
+    print(bracket_check(sys.stdin.read()))
