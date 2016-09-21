@@ -43,15 +43,15 @@ Programming assignments for `Data Structures and Algorithms Specialization <http
 
 **Basic Data Structures**
 
-#. `Check brackets in the code <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/data-structures/basic/check_brackets.py>`_
-#. `Compute tree height <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/data-structures/basic/tree-height.py>`_
-#. `Network packet processing simulation <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/data-structures/basic/process_packages.py>`_
+#. `Check brackets in the code <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week1/check_brackets_in_code/check_brackets.py>`_
+#. `Compute tree height <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week1/tree_height/tree-height.py>`_
+#. `Network packet processing simulation <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week1/network_packet_processing_simulation/process_packages.py>`_
 
 **Priority Queues and Disjoint Sets**
 
-#. `Convert array into heap <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/data-structures/priority-queues-and-disjoint-sets/build_heap.py>`_
-#. `Parallel processing <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/data-structures/priority-queues-and-disjoint-sets/job_queue.py>`_
-#. `Merging tables <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/data-structures/priority-queues-and-disjoint-sets/merging_tables.py>`_
+#. `Convert array into heap <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week2/make_heap>`_
+#. `Parallel processing <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week2/job_queue/job_queue.py>`_
+#. `Merging tables <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week2/merging_tables/merging_tables.py>`_
 
 **Hash Tables and Hash Functions**
 
