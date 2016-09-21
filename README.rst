@@ -9,11 +9,11 @@ Programming assignments for `Data Structures and Algorithms Specialization <http
 
 **Introduction**
 
-#. `Small Fibonacci Number <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/algorithmic-toolbox/week1/fib.py>`_
-#. `The Last Digit of a Large Fibonacci Number <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/algorithmic-toolbox/week1/fibonacci_last_digit.py>`_
-#. `Greatest Common Divisor <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/algorithmic-toolbox/week1/gcd.py>`_
-#. `Least Common Multiple <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/algorithmic-toolbox/week1/lcm.py>`_
-#. `Huge Fibonacci Number modulo m <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/algorithmic-toolbox/week1/fibonacci_huge.py>`_
+#. `Small Fibonacci Number <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/algorithmic-toolbox/week2/fib.py>`_
+#. `The Last Digit of a Large Fibonacci Number <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/algorithmic-toolbox/week2/fibonacci_last_digit.py>`_
+#. `Greatest Common Divisor <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/algorithmic-toolbox/week2/gcd.py>`_
+#. `Least Common Multiple <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/algorithmic-toolbox/week2/lcm.py>`_
+#. `Huge Fibonacci Number modulo m <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/algorithmic-toolbox/week2/fibonacci_huge.py>`_
 
 **Greedy algorithms**
 
