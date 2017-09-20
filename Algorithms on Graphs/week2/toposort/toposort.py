@@ -1,17 +1,18 @@
-#Uses python2
+#Uses python3
 
 
 import sys
 class ADJL():
     def __init__(self, adj):
-        self.__data = {k: adj[k] for k in xrange(len(adj))}
+        self.__data = {k: adj[k] for k in range(len(adj))}
         self.__visited = {k:False for k in range(0, len(adj))}
         self.__postorder = {k:0 for k in range(0, len(adj))}
         self.__post = 0
+        self.__order = []
 
     @property
     def max_post(self):
-        idx, val = self.postorder.items()[0]
+        idx, val = list(self.postorder.items())[0]
         for k, v in self.postorder.items():
             if v > val:
                 idx = k
@@ -21,14 +22,23 @@ class ADJL():
     @property
     def postorder(self):
         return self.__postorder
+    @postorder.setter
+    def postorder(self, value):
+        self.__postorder = value
 
     @property
     def data(self):
         return self.__data
+    @data.setter
+    def data(self, value):
+        self.__data = value
 
     @property
     def visited(self):
         return self.__visited
+    @visited.setter
+    def visited(self, value):
+        self.__visited = value
 
     def get_edges(self, v):
         return self.data[v]
@@ -64,6 +74,24 @@ class ADJL():
         self.postorder[x] = self.__post
         return explored_v
 
+    def start_topsort(self):
+        for i in range(len(self.data.keys())):
+            if not self.visited[i]:
+                self.topsort(i)
+        return reversed(self.__order)
+
+    def topsort(self, x):
+        self.visited[x] = True
+        for v in self.get_edges(x):
+            if not self.visited[v]:
+                self.topsort(v)
+        self.__order.append(x)
+        #print('END_L', x)
+
+
+
+
+
     def post_remove(self, node):
         self.postorder.pop(node)
     def node_remove(self, node):
@@ -87,16 +115,9 @@ def toposort(adj):
 
     invest = ADJL(adj)
 
+    return invest.start_topsort()
 
-    for i in xrange(len(adj)):
-        invest.mark_dfs()
-        idx, val = invest.max_post
-        order.append(idx)
-        invest.node_remove(idx)
-        invest.post_remove(idx)
-    return order
-
-#sys.stdin = file('../tests/a')
+#sys.stdin = open('../tests/h')
 
 if __name__ == '__main__':
     input = sys.stdin.read()
