@@ -11,8 +11,7 @@ def to_string(adj):
         result += 'VERTEX:' + str(k) + ' Edges: ' + str(v)+ '\n'
     print(result)
 
-def bfs():
-    pass
+
 def distance(adj, s, t):
     queue = []
     distance = {k:-1 for k in range(0, len(adj))}

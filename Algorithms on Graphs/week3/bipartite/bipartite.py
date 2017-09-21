@@ -1,11 +1,33 @@
 #Uses python3
 
 import sys
-import queue
+
+def to_string(adj):
+    result = ''
+    data = {k: adj[k] for k in range(len(adj))}
+    for k, v in data.items():
+        result += 'VERTEX:' + str(k) + ' Edges: ' + str(v)+ '\n'
+    print(result)
 
 def bipartite(adj):
-    #write your code here
-    return -1
+    #to_string(adj)
+    queue = []
+    colored = {k:-1 for k in range(0, len(adj))}
+
+    #make 0 initial node
+    colored[0] = 1
+    queue.append(0)
+    while len(queue):
+        v = queue.pop(0)
+        for edge in adj[v]:
+            if colored[edge] == -1:
+                colored[edge] = 1 - colored[v]
+                queue.append(edge)
+            if colored[edge] == colored[v]:
+                return 0
+
+    return 1
+#sys.stdin = open('../test/b')
 
 if __name__ == '__main__':
     input = sys.stdin.read()
