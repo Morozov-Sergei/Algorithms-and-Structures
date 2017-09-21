@@ -3,10 +3,27 @@
 import sys
 
 
+def to_string(adj):
+    result = ''
+    data = {k: adj[k] for k in range(len(adj))}
+    for k, v in data.items():
+        result += 'VERTEX:' + str(k) + ' Edges: ' + str(v)+ '\n'
+    print(result)
+
 def negative_cycle(adj, cost):
-    #write your code here
+    distance=[0]*len(adj)
+    distance[0] = 0
+    for ind in range(len(adj)):
+        for u in range(len(adj)):
+            for v in adj[u]:
+                v_index = adj[u].index(v)
+                if distance[v] > distance[u] + cost[u][v_index]:
+                    distance[v] = distance[u] + cost[u][v_index]
+                    if ind==len(adj) - 1:
+                        return 1
     return 0
 
+#sys.stdin = open('../tests/c')
 
 if __name__ == '__main__':
     input = sys.stdin.read()
