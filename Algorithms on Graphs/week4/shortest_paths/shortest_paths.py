@@ -6,7 +6,47 @@ import queue
 
 def shortet_paths(adj, cost, s, distance, reachable, shortest):
     #write your code here
-    pass
+    prev = [None]*len(adj)
+    negative_cycle = queue.Queue()
+
+    reachable[s] = 1
+    distance[s] = 0
+    for ind in range(len(adj)):
+        nothingChanged = True
+        for u in range(len(adj)):
+            for v in adj[u]:
+                v_index = adj[u].index(v)
+                if distance[u]!= 10**19 and distance[v] > distance[u] + cost[u][v_index]:
+                    nothingChanged = False
+                    distance[v] = distance[u] + cost[u][v_index]
+                    prev[v] = u
+                    reachable[v]=1
+                    if ind == len(adj) - 1:
+                        negative_cycle.put(v)
+                        shortest[v]=0
+        if nothingChanged:
+            break
+
+    #mark reachable
+    for ind in range(len(adj)):
+        if distance[ind] < 10**19:
+            reachable[ind] = 1
+
+    visited = [False] * len(adj)
+    while not negative_cycle.empty():
+        u=negative_cycle.get()
+        visited[u]=True
+        shortest[u] = 0
+        for v in adj[u]:
+            if visited[v] == False:
+                negative_cycle.put(v)
+                visited[v]=True
+                shortest[v]=0
+
+    distance[s] = 0
+
+
+#sys.stdin = open('../tests/d')
 
 
 if __name__ == '__main__':
