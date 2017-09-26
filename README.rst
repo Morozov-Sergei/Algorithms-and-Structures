@@ -63,3 +63,37 @@ Programming assignments for `Data Structures and Algorithms Specialization <http
 
 #. `Tree traversal <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week5/tree_orders/tree-orders.py>`_
 #. `Range sum in splay tree <https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week5/set_range_sum/set_range_sum.py>`_
+
+# Algorithms on Graphs
+Assignments in Python for Algorithms on Graphs on Coursera
+
+## Week 1
+### Programming Assignment 1: Decomposition of Graphs
+Problem: [Finding an Exit from a Maze](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithms%20on%20Graphs/week1/reachability/reachability.py) </br>
+Problem: [Adding Exits to a Maze](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithms%20on%20Graphs/week1/connected_components/connected_components.py) </br>
+
+## Week 2
+### Programming Assignment 2: Decomposition of Graphs
+Problem: [Checking Consistency of CS Curriculum](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithms%20on%20Graphs/week2/acyclicity/acyclicity.py) </br>
+Problem: [Determining an Order of Courses](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithms%20on%20Graphs/week2/toposort/toposort.py) </br>
+Advanced Problem: [Checking Whether Any Intersection in a City
+is Reachable from Any Other](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithms%20on%20Graphs/week2/strongly_connected/strongly_connected.py) </br>
+
+## Week 3
+### Programming Assignment 3: Paths in Graphs
+Problem: [Computing the Minimum Number of Flight Segments](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithms%20on%20Graphs/week3/bfs/bfs.py) </br>
+Problem: [Checking whether a Graph is Bipartite](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithms%20on%20Graphs/week3/bipartite/bipartite.py) </br>
+
+## Week 4
+### Programming Assignment 4: Paths in Graphs
+Problem: [Computing the Minimum Cost of a Flight](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithms%20on%20Graphs/week4/dijkstra/dijkstra.py) </br>
+Problem: [Detecting Anomalies in Currency Exchange Rates](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithms%20on%20Graphs/week4/negative_cycle/negative_cycle.py) </br>
+Advanced Problem: [Exchanging Money Optimally](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithms%20on%20Graphs/week4/shortest_paths/shortest_paths.py) </br>
+
+## Week 5
+### Programming Assignment 5: Minimum Spanning Trees
+Problem: [Building Roads to Connect Cities](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithms%20on%20Graphs/week5/connecting_points/connecting_points.py) </br>
+Problem: [Clustering](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithms%20on%20Graphs/week5/clustering/clustering.py) </br>
+
+## Week 6
+### Programming Assignment 6: Advanced Shortest Paths
