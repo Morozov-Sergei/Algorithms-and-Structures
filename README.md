@@ -39,7 +39,7 @@ Problem: [Compute the Edit Distance Between Two Strings](https://github.com/Serg
 Problem: [Maximize the Value of an Arithmetic Expression](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/week5/placing_parentheses.py) </br>
 Problem: [Longest Common Subsequence of Three Sequences](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/week5/lcs3.py) </br>
 
-[Data Structures](https://www.coursera.org/learn/data-structures/) </br>
+## [Data Structures](https://www.coursera.org/learn/data-structures/) </br>
 
 ### Week 1
 ### Programming Assignment 1: Basic Data Structures
@@ -68,7 +68,7 @@ Problem: [Find pattern in text](https://github.com/Sergei-Morozov/Coursera_Data-
 Problem: [Tree traversal](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week5/tree_orders/tree-orders.py) </br>
 Problem: [Range sum in splay tree](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week5/set_range_sum/set_range_sum.py) </br>
 
-# Algorithms on Graphs
+## Algorithms on Graphs
 Assignments in Python for Algorithms on Graphs on Coursera
 
 ### Week 1
