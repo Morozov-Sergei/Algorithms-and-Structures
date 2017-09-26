@@ -4,7 +4,7 @@
 
 ## [Algorithmic Toolbox](https://www.coursera.org/learn/Algorithmic-Toolbox) </br>
 
-### Week2: Introduction**
+### Week 2: Introduction
 
 Problem: [Small Fibonacci Number](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/week2/fib.py) </br>
 Problem: [The Last Digit of a Large Fibonacci Number](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/week2/fibonacci_last_digit.py) </br>
@@ -12,14 +12,14 @@ Problem: [Greatest Common Divisor](https://github.com/Sergei-Morozov/Coursera_Da
 Problem: [Least Common Multiple](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/week2/lcm.py) </br>
 Problem: [Huge Fibonacci Number modulo m](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/week2/fibonacci_huge.py) </br>
 
-### Week3:Greedy algorithms**
+### Week 3:Greedy algorithms
 
 Problem: [Changing Money](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/week3/change.py) </br>
 Problem: [Fractional Knapsack](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/week3/fractional_knapsack.py) </br>
 Problem: [Covering Segments by Points](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/week3/covering_segments.py) </br>
 Problem: [Pairwise Distinct Summands](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/week3/different_summands.py) </br>
 
-### Week4: Divide and conquer**
+### Week 4: Divide and conquer
 
 Problem: [Binary Search](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/week4/binary_search.py) </br>
 Problem: [Majority Element](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/week4/majority_element.py) </br>
@@ -27,7 +27,7 @@ Problem: [Sorting: 3-Way Partition](https://github.com/Sergei-Morozov/Coursera_D
 Problem: [Number of Inversions](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/week4/inversions.py) </br>
 Problem: [Points and Segments](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/week4/points_and_segments.py) </br>
 
-### Week5: Dynamic programming**
+### Week 5: Dynamic programming
 
 Problem: [Primitive Calculator](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/week5/primitive_calculator.py) </br>
 Problem: [Take as Much Gold as Possible](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/week5/knapsack.py) </br>
@@ -37,25 +37,25 @@ Problem: [Longest Common Subsequence of Three Sequences](https://github.com/Serg
 
 [Data Structures](https://www.coursera.org/learn/data-structures/) </br>
 
-### Week1: Basic Data Structures**
+### Week 1: Basic Data Structures
 
 Problem: [Check brackets in the code](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week1/check_brackets_in_code/check_brackets.py) </br>
 Problem: [Compute tree height](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week1/tree_height/tree-height.py) </br>
 Problem: [Network packet processing simulation](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week1/network_packet_processing_simulation/process_packages.py) </br>
 
-### Week2: Priority Queues and Disjoint Sets**
+### Week 2: Priority Queues and Disjoint Sets
 
 Problem: [Convert array into heap](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week2/make_heap) </br>
 Problem: [Parallel processing](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week2/job_queue/job_queue.py) </br>
 Problem: [Merging tables](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week2/merging_tables/merging_tables.py) </br>
 
-### Week3: Hash Tables and Hash Functions**
+### Week 3: Hash Tables and Hash Functions
 
 Problem: [Phone book](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week3/phone_book/phone_book.py) </br>
 Problem: [Hashing with chains](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week3/hash_chains/hash_chains.py) </br>
 Problem: [Find pattern in text](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week3/hash_substring/hash_substring.py) </br>
 
-### Week4-Week5: Trees**
+### Week 4-Week 5: Trees
 
 Problem: [Tree traversal](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week5/tree_orders/tree-orders.py) </br>
 Problem: [Range sum in splay tree](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week5/set_range_sum/set_range_sum.py) </br>
