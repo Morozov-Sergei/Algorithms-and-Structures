@@ -1,4 +1,4 @@
-# Data Structures and Algorithms Specialization from
+# Data Structures and Algorithms from
 ### UNIVERSITY OF CALIFORNIA SAN DIEGO 
 ### NATIONAL RESEARCH UNIVERSITY HIGHER SCHOOL OF ECONOMICS
 
