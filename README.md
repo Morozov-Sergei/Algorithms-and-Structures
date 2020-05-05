@@ -1,4 +1,4 @@
-# [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms>) from
+# [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms>)
 ### UNIVERSITY OF CALIFORNIA SAN DIEGO 
 ### NATIONAL RESEARCH UNIVERSITY HIGHER SCHOOL OF ECONOMICS
 
