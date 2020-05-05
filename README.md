@@ -1,8 +1,15 @@
-# Data Structures and Algorithms from
+# [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms>) from
 ### UNIVERSITY OF CALIFORNIA SAN DIEGO 
 ### NATIONAL RESEARCH UNIVERSITY HIGHER SCHOOL OF ECONOMICS
 
-## Programming assignments for [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms>) </br>
+## Courses:
+
+- [Algorithmic Toolbox](https://www.coursera.org/learn/Algorithmic-Toolbox)
+
+- [Data Structures](https://www.coursera.org/learn/data-structures/)
+
+- [Algorithms on Graphs]()
+
 
 ## [Algorithmic Toolbox](https://www.coursera.org/learn/Algorithmic-Toolbox) </br>
 
@@ -70,7 +77,7 @@ Problem: [Find pattern in text](https://github.com/Sergei-Morozov/Coursera_Data-
 Problem: [Tree traversal](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week5/tree_orders/tree-orders.py) </br>
 Problem: [Range sum in splay tree](https://github.com/Sergei-Morozov/Coursera_Data-Structures-and-Algorithms/blob/master/Data-Structures/week5/set_range_sum/set_range_sum.py) </br>
 
-## Algorithms on Graphs
+## [Algorithms on Graphs]()
 Assignments in Python for Algorithms on Graphs on Coursera
 
 ### Week 1
