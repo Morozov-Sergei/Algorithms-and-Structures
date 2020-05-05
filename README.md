@@ -1,6 +1,6 @@
-# Coursera: Data Structures and Algorithms Specialization
-# UNIVERSITY OF CALIFORNIA SAN DIEGO
-# NATIONAL RESEARCH UNIVERSITY HIGHER SCHOOL OF ECONOMICS
+# Data Structures and Algorithms Specialization from
+### UNIVERSITY OF CALIFORNIA SAN DIEGO 
+### NATIONAL RESEARCH UNIVERSITY HIGHER SCHOOL OF ECONOMICS
 
 ## Programming assignments for [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms>) </br>
 
